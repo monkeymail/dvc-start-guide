@@ -1,0 +1,4 @@
+[core]
+    remote = tmpremote
+['remote "tmpremote"']
+    url = /tmp/dvcstore
